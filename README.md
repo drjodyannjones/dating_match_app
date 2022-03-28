@@ -6,7 +6,7 @@
 
 ### About this Project
 
-Using a dataset from OKCupid, I created a clustering algorithm that served as the basis for identifying and matching individual users based on similar features(characteristics). The final iteration of the model was optimized by setting n_clusters=4.
+Using a dataset from OKCupid, I created an Agglomerative clustering algorithm that served as the basis for identifying and matching individual users based on similar features(characteristics). The final iteration of the model was optimized by setting n_clusters=4.
 
 Other fun stuff we can do with this dataset is to see which users are most correlated with each other  by using pandas corr() function. It is interesting to compare similarities between pairwise profiles. A possible of this extension could be to test if strong associations exist between profiles intra clusters or inter clusters. 
 
